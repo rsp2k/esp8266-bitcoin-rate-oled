@@ -1,3 +1,6 @@
+import esp
+esp.osdebug(None)
+
 import urequests
 import time
 import ssd1306
